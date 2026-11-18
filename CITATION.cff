@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use Thalamus-Decision, please cite it as below, together with Thalamus-Reasoning."
+title: "Thalamus-Decision"
+type: software
+license: Apache-2.0
+authors:
+  - family-names: Kinas
+    given-names: Remigiusz
+  - family-names: Pikusa
+    given-names: Michał
+  - family-names: Powalski
+    given-names: Rafał
+  - family-names: Możwiłło
+    given-names: Aleksandra
+  - family-names: Sypetkowski
+    given-names: Maciej
+  - family-names: Smoliński
+    given-names: Łukasz
+  - family-names: Hofman
+    given-names: Bartłomiej
+references:
+  - type: article
+    title: "Thalamus-Reasoning: A Multimodal Large Language Model for Multi-Sample Omics Reasoning"
+    authors:
+      - family-names: Sypetkowski
+        given-names: Maciej
+      - family-names: Smoliński
+        given-names: Łukasz
+      - family-names: Kinas
+        given-names: Remigiusz
+      - family-names: Krawczyk
+        given-names: Joanna
+      - family-names: Hofman
+        given-names: Bartłomiej
+      - family-names: Możwiłło
+        given-names: Aleksandra
+      - family-names: Pikusa
+        given-names: Michał
+      - family-names: Jetka
+        given-names: Tomasz
+      - family-names: Powalski
+        given-names: Rafał
+    journal: "arXiv preprint arXiv:2605.06728"
+    year: 2026
+    url: "https://arxiv.org/abs/2605.06728"
