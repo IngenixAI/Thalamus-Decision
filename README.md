@@ -10,7 +10,7 @@ profiles alongside text and JSON records, and answers closed questions with cali
 With a target error of 5% or 1%, each answer also says whether it can be automated or should go to a person. The
 current release is Thalamus-Decision-9B.
 
-[Model on Hugging Face](https://huggingface.co/ingenix/Thalamus-Decision-9B) · [Thalamus-Reasoning](https://github.com/IngenixAI/Thalamus-Reasoning) · [Paper: *Thalamus-Decision: A Typed Decision Model with a Biological Modality*](https://github.com/IngenixAI/Thalamus-Decision/blob/main/Thamalus-Decision-v1.pdf)
+[Model on Hugging Face](https://huggingface.co/ingenix/Thalamus-Decision-9B) · [Thalamus-Reasoning](https://github.com/IngenixAI/Thalamus-Reasoning) · [Paper: Thalamus-Decision: A Typed Decision Model with a Biological Modality](https://github.com/IngenixAI/Thalamus-Decision/blob/main/Thamalus-Decision-v1.pdf)
 
 This repository holds the inference engine: an HTTP API and MCP server, a Python API, a small client and the
 evaluation scripts. The training code and training data are not released.
