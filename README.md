@@ -317,8 +317,7 @@ Questions and bug reports: issues in this repository. Contact: [info@ingenix.ai]
 
 ## License
 
-Code is released under the [Apache License 2.0](LICENSE) (see [NOTICE](NOTICE)). The model weights are released
-under the [Ingenix.ai License](https://huggingface.co/ingenix/Thalamus-Decision-9B/blob/main/LICENSE) and derive from
+Code and model is released under the [Apache License 2.0](LICENSE) (see [NOTICE](NOTICE)) and derive from
 [Thalamus-Reasoning-9B](https://huggingface.co/ingenix/Thalamus-Reasoning-9B) and [Qwen3.5-9B](https://huggingface.co/Qwen/Qwen3.5-9B)
 (Apache 2.0). Data files in the model repository keep their own terms; see its README.
 
